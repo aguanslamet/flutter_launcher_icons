@@ -11,7 +11,7 @@ class IosIconTemplate {
 }
 
 List<IosIconTemplate> iosIcons = <IosIconTemplate>[
-  IosIconTemplate(name: '-20x20@1x', size: 20),
+  IosIconTemplate(name: '-20x20@1x', size: 40),
   IosIconTemplate(name: '-20x20@2x', size: 40),
   IosIconTemplate(name: '-20x20@3x', size: 60),
   IosIconTemplate(name: '-29x29@1x', size: 29),
